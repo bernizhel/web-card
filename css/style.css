@@ -1,9 +1,8 @@
 body {
-	background-color: #ddd;
-	background: url("../img/background.jpg") repeat;
+	background: #ddd url("../img/background.jpg");
 	background-size: 800px;
 	margin: 0;
-	font-family: candara;
+	font-family: 'Helvetica', sans-serif;
 	line-height: 1.5;
 
 }
